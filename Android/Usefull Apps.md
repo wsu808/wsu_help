@@ -16,8 +16,8 @@ Welcome to
 
 | + | - |
 | :-----------------: | :--------------: |
-| Tachiyomi-like UI | none |
-| Let both watch anime and read manga | none |
+| Tachiyomi-like UI |  |
+| Let both watch anime and read manga |  |
 
 
 </details>
