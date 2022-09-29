@@ -83,6 +83,17 @@
 
 </details>
 
+Feature Overview
+| App                 | Supported Sources | Tracking | Continue watching | Download |
+| -------------------- | ------------------------------ | -------------- | ----------------------------- | ---------------- |
+| Aniyomi         |  |  |  |  |
+| Saikou            |  |  |  |  |
+| Kayuri             |  |  |  |  |
+| No                   |  |  |  |  |
+| Anime DL       |  |  |  |  |
+| Streamio        |  |  |  |  |
+| CloudStream |  |  |  |  |
+
 ---
 
 <details><summary>Watch <b>TV Shows & Movies</b></summary>
