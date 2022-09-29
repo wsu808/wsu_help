@@ -1,5 +1,8 @@
-Welcome to
-# wasu's apps guide
+<sub>Welsome to</sub>
+<h1 style="text-align:center">ᴡᴀsᴜ's ᴀᴩᴩs ɢᴜɪᴅᴇ</h1>
+
+📖 Read
+--------
 
 <details><summary>Read Manga</summary>
 
@@ -10,6 +13,30 @@ Welcome to
 </details>
 
 ---
+
+<details><summary>Read Light Novels</summary>
+
+✦ [**Shosetsu**](https://shosetsu.app)
+
+✦ [**QuickNovel**](https://github.com/LagradOst/QuickNovel)
+
+</details>
+
+---
+
+<details><summary>Read Ebooks</summary>
+
+✦ [**Moon+ Reader**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) `▶Google Play`
+
+✦ [**Reasily**](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) `▶Google Play`
+> **ePub only** reader
+
+</details>
+
+---
+
+🎥 Watch
+----------
 
 <details><summary>Watch Anime</summary>
 
@@ -44,28 +71,6 @@ Welcome to
 > FooView is a floating ball with gestures, 500+ featuers all in one touch.
 
 </details>
-
----
-
-<details><summary>Read Light Novels</summary>
-
-✦ [**Shosetsu**](https://shosetsu.app)
-
-✦ [**QuickNovel**](https://github.com/LagradOst/QuickNovel)
-
-</details>
-
----
-
-<details><summary>Read Ebooks</summary>
-
-✦ [**Moon+ Reader**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) `▶Google Play`
-
-✦ [**Reasily**](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) `▶Google Play`
-> **ePub only** reader
-
-</details>
-
 
 
 ---
