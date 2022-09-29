@@ -15,9 +15,9 @@ Welcome to
 > Fork of Tachiyomi for anime. 
 
 | + | - |
-| :----: |
-| Tachiyomi-like UI | |
-| Let both watch anime and read manga | |
+| :-----------------: | :--------------: |
+| Tachiyomi-like UI | none |
+| Let both watch anime and read manga | none |
 
 
 </details>
