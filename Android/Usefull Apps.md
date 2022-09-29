@@ -1,5 +1,5 @@
 <sub>Welsome to</sub>
-<h1 style="text-align:center">ᴡᴀsᴜ's ᴀᴩᴩs ɢᴜɪᴅᴇ</h1>
+<h1 align="center">ᴡᴀsᴜ's ᴀᴩᴩs ɢᴜɪᴅᴇ</h1>
 
 📖 Read
 --------
