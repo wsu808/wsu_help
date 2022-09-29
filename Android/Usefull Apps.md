@@ -14,10 +14,10 @@ Welcome to
 [**Aniyomi**](https://aniyomi.jmir.xyz/) `FOSS` `Extension based`
 > Fork of Tachiyomi for anime. 
 
-| Column 1 Header |
-| --------------- |
-| Row 1 Column 1 |
-| Row 2 Column 1 |
+| + | - |
+| :----: |
+| Tachiyomi-like UI | |
+| Let both watch anime and read manga | |
 
 
 </details>
