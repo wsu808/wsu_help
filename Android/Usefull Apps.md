@@ -18,6 +18,10 @@
 ✨ [**Tachiyomi**](https://tachiyomi.org/) and its [forks](https://tachiyomi.org/forks/). `FOSS` `Extension based`
 
 ✧ [**Saikou**](https://github.com/saikou-app/saikou) `FOSS`
+|           +          |            -           |         +/-          |
+| :-----------------: | :-----------------: | :-----------------: |
+| Track with Anilist | Only Anilist tracking | Animations |
+|  |  | Big padding and margins |
 
 </details>
 
@@ -80,6 +84,10 @@
 <details><summary>Download <b>Video</b></summary>
 
 ✦ [Video Downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶Google Play`
+|           +          |            -           |
+| :-----------------: | :-----------------: |
+|  | Ads |
+|  |  |
 
 </details>
 
@@ -105,7 +113,7 @@
 <details><summary>File Explorers</summary>
 
 ✦ [**X-plore**](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) `▶Google Play`
-> |           +          |            -           |
+|           +          |            -           |
 | :-----------------: | :-----------------: |
 | Two column view |  |
 | Remember scroll position |  |
