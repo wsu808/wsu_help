@@ -60,6 +60,7 @@
 | :-----------------: | :-----------------: |
 | Tachiyomi-like UI |  |
 | Let both watch anime and read manga |  |
+| Continue watching where you left |  |
 
 &#10022; [**Saikou**](https://github.com/saikou-app/saikou) 
 `FOSS`
@@ -75,7 +76,7 @@
 `FOSS`
 
 &#10023; [Streamio](https://www.stremio.com/downloads) 
-`Extension based`
+`FOSS` `Extension based`
 
 &#10023; [**CloudStream**](https://github.com/recloudstream/cloudstream) `FOSS` `Extension based`
 > Movie and Series centered but supports a few anime sources as well.
