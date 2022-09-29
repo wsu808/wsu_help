@@ -4,7 +4,8 @@
 | [Read](#-read) 
 | [Watch](#-watch) 
 | [Download](#-download)
-| 
+| [Files](#-manage-files)
+|
 
 
 </br></br>
@@ -96,6 +97,25 @@
 </details>
 
 ---
+
+📂 Manage Files
+---------------------------
+
+
+<details><summary>File Explorers</summary>
+
+[X-plore]()
+> Two clumn view.
+
+</details>
+
+---
+
+<details><summary>Find a File</summary>
+
+[aGrep]()
+
+</details>
 
 Make Your Life Easier
 ----------------------------------
