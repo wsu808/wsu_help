@@ -1,4 +1,4 @@
-<sub>Welsome to</sub>
+<sub>Welsome to...</sub>
 <h1 align="center">ᴡᴀsᴜ's ᴀᴩᴩs ɢᴜɪᴅᴇ</h1>
 
 📖 Read
@@ -24,7 +24,7 @@
 
 ---
 
-<details><summary>Read Ebooks</summary>
+<details><summary>Read E-books</summary>
 
 ✦ [**Moon+ Reader**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) `▶Google Play`
 
@@ -65,6 +65,33 @@
 
 ---
 
+📥 Download
+---------------------
+
+<details><summary>Download Video</summary>
+
+✦ [Video Downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶Google Play`
+
+</details>
+
+---
+
+<details><summary>Download Images</summary>
+
+✦ [Image Hunter](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶Google Play`
+
+✦ [Gallerify](https://play.google.com/store/apps/details?id=com.atominvention.gallerify) `▶Google Play`
+
+❌ ~~[GetThemAll]()~~ `▶Google Play`
+> Once upon a time it was great app... But owner changed and...
+
+</details>
+
+---
+
+Make Your Life Easier
+----------------------------------
+
 <details><summary>Everyday Use</summary>
 
 ✨ [**FooView**](https://www.fooview.com/) [`▶Google Play`](https://play.google.com/store/apps/details?id=com.fooview.android.fooview)  
@@ -75,21 +102,8 @@
 
 ---
 
-<details><summary></summary>
-
-[]()
-
-</details>
-
----
-
-<details><summary></summary>
-
-[]()
-
-</details>
-
----
+And much more...
+-----------------------------
 
 <details><summary></summary>
 
