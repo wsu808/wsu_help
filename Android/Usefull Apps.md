@@ -1,7 +1,14 @@
 <sub>Welsome to...</sub>
-<h1 align="center">ᴡᴀsᴜ's ᴀᴩᴩs ɢᴜɪᴅᴇ</h1>
+<p align="center">
 
-| [Read](#-read) | Watch | Download |
+# ᴡᴀsᴜ's ᴀᴩᴩs ɢᴜɪᴅᴇ
+
+| [Read](#-read) 
+| Watch 
+| Download 
+|
+
+</p>
 
 📖 Read
 --------
