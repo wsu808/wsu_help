@@ -4,7 +4,7 @@
 📖 Read
 --------
 
-<details><summary>Read Manga</summary>
+<details><summary>Read <b>Manga</b></summary>
 
 ✨ [**Tachiyomi**](https://tachiyomi.org/) and its [forks](https://tachiyomi.org/forks/). `FOSS` `Extension based`
 
@@ -14,7 +14,7 @@
 
 ---
 
-<details><summary>Read Light Novels</summary>
+<details><summary>Read Light <b>Novels</b></summary>
 
 ✦ [**Shosetsu**](https://shosetsu.app)
 
@@ -24,7 +24,7 @@
 
 ---
 
-<details><summary>Read E-books</summary>
+<details><summary>Read <b>E-books</b></summary>
 
 ✦ [**Moon+ Reader**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) `▶Google Play`
 
@@ -38,7 +38,7 @@
 🎥 Watch
 ----------
 
-<details><summary>Watch Anime</summary>
+<details><summary>Watch <b>Anime</b></summary>
 
 ✦ [**Aniyomi**](https://aniyomi.jmir.xyz/) `FOSS` `Extension based`
 > Fork of Tachiyomi for anime. 
@@ -57,7 +57,7 @@
 
 ---
 
-<details><summary>Watch TV Shows & Movies</summary>
+<details><summary>Watch <b>TV Shows & Movies</b></summary>
 
 ✦ [**CloudStream**](https://github.com/recloudstream/cloudstream) `FOSS` `Extension based`
 
@@ -68,7 +68,7 @@
 📥 Download
 ---------------------
 
-<details><summary>Download Video</summary>
+<details><summary>Download <b>Video</b></summary>
 
 ✦ [Video Downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶Google Play`
 
@@ -76,7 +76,7 @@
 
 ---
 
-<details><summary>Download Images</summary>
+<details><summary>Download <b>Images</b></summary>
 
 ✦ [Image Hunter](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶Google Play`
 
