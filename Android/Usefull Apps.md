@@ -81,9 +81,7 @@
 &#10023; [**CloudStream**](https://github.com/recloudstream/cloudstream) `FOSS` `Extension based`
 > Movie and Series centered but supports a few anime sources as well.
 
-</details>
-
-Feature Overview
+### Feature Overview
 | App                 | Supported Sources | Tracking | Continue watching | Download |
 | -------------------- | ------------------------------ | -------------- | ----------------------------- | ---------------- |
 | Aniyomi         |  |  |  |  |
@@ -93,6 +91,8 @@ Feature Overview
 | Anime DL       |  |  |  |  |
 | Streamio        |  |  |  |  |
 | CloudStream |  |  |  |  |
+
+</details>
 
 ---
 
