@@ -104,8 +104,11 @@
 
 <details><summary>File Explorers</summary>
 
-[X-plore]()
-> Two clumn view.
+[X-plore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) `▶Google Play`
+> |           +          |            -           |
+| :-----------------: | :-----------------: |
+| Two column view |  |
+| Remember scroll position |  |
 
 </details>
 
@@ -113,7 +116,8 @@
 
 <details><summary>Find a File</summary>
 
-[aGrep]()
+[aGrep]() `FOSS` [`F-Droid`](https://f-droid.org/en/packages/jp.sblo.pandora.aGrep/)
+> Search not only for filenames but also through content of files and documents
 
 </details>
 
