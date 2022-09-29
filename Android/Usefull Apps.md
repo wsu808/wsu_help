@@ -84,13 +84,13 @@
 ### Feature Overview
 | App                 | Supported Sources | Tracking | Continue watching | Download |
 | -------------------- | ------------------------------ | -------------- | ----------------------------- | ---------------- |
-| Aniyomi         |  |  |  |  |
+| Aniyomi         | Various | MAL, Anilist  | Yes | Yes |
 | Saikou            |  |  |  |  |
 | Kayuri             |  |  |  |  |
-| No                   |  |  |  |  |
+| No                   | GoGo |  |  |  |
 | Anime DL       |  |  |  |  |
-| Streamio        |  |  |  |  |
-| CloudStream |  |  |  |  |
+| Streamio        | Various |  |  |  |
+| CloudStream | Various |  |  |  |
 
 </details>
 
