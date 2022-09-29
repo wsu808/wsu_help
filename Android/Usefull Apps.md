@@ -61,7 +61,21 @@
 | Tachiyomi-like UI |  |
 | Let both watch anime and read manga |  |
 
-&#10022; [**Saikou**](https://github.com/saikou-app/saikou)
+&#10022; [**Saikou**](https://github.com/saikou-app/saikou) 
+`FOSS`
+
+&#10023; [Kayuri](https://github.com/Killerpac/Kayuri) 
+`FOSS`
+
+&#10023; [No](https://github.com/deceptions/no) 
+`FOSS`  
+> Just another gogoscraper, based on the leaked shiro source code.
+
+&#10023; [Anime DL](https://github.com/sharn25/Anime-DL-Android-Verison) 
+`FOSS`
+
+&#10023; [Streamio](https://www.stremio.com/downloads) 
+`Extension based`
 
 &#10023; [**CloudStream**](https://github.com/recloudstream/cloudstream) `FOSS` `Extension based`
 > Movie and Series centered but supports a few anime sources as well.
