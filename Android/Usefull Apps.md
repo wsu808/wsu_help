@@ -11,8 +11,11 @@ Welcome to
 
 <details><summary>Watch Anime</summary>
 
-[Aniyomi](https://aniyomi.jmir.xyz/) `FOSS` `Extension based`
+[**Aniyomi**](https://aniyomi.jmir.xyz/) `FOSS` `Extension based`
 > Fork of Tachiyomi for anime. 
+|Features|
+|---|
+|Tachiyomi-like UI|
 
 </details>
 
