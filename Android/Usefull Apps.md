@@ -109,7 +109,7 @@
 
 <details><summary>Download <b>Video</b></summary>
 
-&#10022; [Video Downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `&#9654;Google Play`
+&#10022; [Video Downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `&#9654; Google Play`
 |           +          |            -           |
 | :-----------------: | :-----------------: |
 |  | Ads |
