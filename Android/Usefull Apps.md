@@ -39,9 +39,9 @@
 
 <details><summary>Read <b>E-books</b></summary>
 
-&#10022; [**Moon+ Reader**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) `&#9654;Google Play`
+&#10022; [**Moon+ Reader**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) `▶️Google Play`
 
-&#10022; [**Reasily**](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) `&#9654;Google Play`
+&#10022; [**Reasily**](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) `▶️Google Play`
 > **ePub only** reader
 
 </details>
@@ -109,7 +109,7 @@
 
 <details><summary>Download <b>Video</b></summary>
 
-&#10022; [Video Downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `&#9654; Google Play`
+&#10022; [Video Downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶️Google Play`
 |           +          |            -           |
 | :-----------------: | :-----------------: |
 |  | Ads |
@@ -121,11 +121,11 @@
 
 <details><summary>Download <b>Images</b></summary>
 
-&#10022; [Image Hunter](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `&#9654;Google Play`
+&#10022; [Image Hunter](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶️Google Play`
 
-&#10022; [Gallerify](https://play.google.com/store/apps/details?id=com.atominvention.gallerify) `&#9654;Google Play`
+&#10022; [Gallerify](https://play.google.com/store/apps/details?id=com.atominvention.gallerify) `▶️Google Play`
 
- **�** ~~[GetThemAll]()~~ `&#9654;Google Play`
+ **�** ~~[GetThemAll]()~~ `▶️Google Play`
 > Once upon a time it was great app... But owner changed and...
 
 </details>
@@ -138,7 +138,7 @@
 
 <details><summary>File Explorers</summary>
 
-&#10022; [**X-plore**](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) `&#9654;Google Play`
+&#10022; [**X-plore**](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) `▶️Google Play`
 |           +          |            -           |
 | :-----------------: | :-----------------: |
 | Two column view |  |
@@ -162,7 +162,7 @@ Make Your Life Easier
 
 <details><summary>Everyday Use</summary>
 
-&#10022; [**FooView**](https://www.fooview.com/) [`&#9654;Google Play`](https://play.google.com/store/apps/details?id=com.fooview.android.fooview)  
+&#10022; [**FooView**](https://www.fooview.com/) [`▶️Google Play`](https://play.google.com/store/apps/details?id=com.fooview.android.fooview)  
 > FooView is a floating ball with gestures, 500+ featuers all in one touch.
 
 </details>
