@@ -82,15 +82,15 @@
 > Movie and Series centered but supports a few anime sources as well.
 
 ### Feature Overview
-| App                 | Supported Sources | Tracking | Continue watching | Download |
-| -------------------- | :----------------------------: | :------------: | :----------------------------: | :--------------: |
-| Aniyomi         | Various | MAL, AniList, Kitsu, Shikimori, Bangumi  | Yes | Yes |
-| Saikou            |  | AniList |  |  |
-| Kayuri             |  |  |  |  |
-| No                   | GoGo |  |  |  |
-| Anime DL       |  |  |  |  |
-| Streamio        | Various |  |  |  |
-| CloudStream | Various | MAL, AniList |  |  |
+| App                 | Supported Sources | Tracking | Continue watching | Download | Episode Countdown |
+| -------------------- | :----------------------------: | :------------: | :----------------------------: | :--------------: | :------------------------------: |
+| Aniyomi         | Various | MAL, AniList, Kitsu, Shikimori, Bangumi  | Yes | Yes(batch?) | No |
+| Saikou            |  | AniList |  |  | Yes |
+| Kayuri             |  |  |  |  |  |
+| No                   | GoGo |  |  |  |  |
+| Anime DL       |  |  |  |  |  |
+| Streamio        | Various |  |  |  |  |
+| CloudStream | Various | MAL, AniList | Yes | Yes | No |
 
 </details>
 
