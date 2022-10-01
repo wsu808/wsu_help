@@ -83,9 +83,8 @@
 
 </details>
 
-<details><summary>Watch Anime - <b>Feature Overview</b></summary>
+<details><summary><h6>Watch Anime - Feature Overview</h6></summary>
 
-### Feature Overview
 | App                 | Supported Sources | Tracking | Continue watching | Download | Episode Countdown | Additional Info |
 | -------------------- | :----------------------------: | :------------: | :----------------------------: | :--------------: | :------------------------------: | :---------------------: |
 | Aniyomi         | [Various](https://aniyomi.jmir.xyz/extensions/) | MAL, AniList, Kitsu, Shikimori, Bangumi  | Yes | Yes<br>(batch) | No | Description, Tags(source-dependent) |
