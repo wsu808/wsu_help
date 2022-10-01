@@ -15,13 +15,12 @@
 
 <details><summary>Read <b>Manga</b></summary>
 
-&#10022; [**Tachiyomi**](https://tachiyomi.org/) and its [forks](https://tachiyomi.org/forks/). `FOSS` `Extension based`
+&#10022; [**Tachiyomi**](https://tachiyomi.org/) and its [forks](https://tachiyomi.org/forks/) 
+`FOSS` `Extension based`
 
-&#10023; [**Saikou**](https://github.com/saikou-app/saikou) `FOSS`
-|           +          |            -           |         +/-          |
-| :-----------------: | :-----------------: | :-----------------: |
-| Track with Anilist | Only Anilist tracking | Animations |
-|  |  | Big padding and margins |
+&#10023; [**Saikou**](https://github.com/saikou-app/saikou) 
+`FOSS` 
+> Compared to Tachiyomi it has less sources. In terms of UI it has more animations, bigger padding and margins which can be considered both a disadvantage and an advantage.
 
 </details>
 
@@ -30,8 +29,18 @@
 <details><summary>Read Light <b>Novels</b></summary>
 
 &#10022; [**Shosetsu**](https://shosetsu.app)
+`FOSS`
+> Tachiomi-like UI.
 
 &#10022; [**QuickNovel**](https://github.com/LagradOst/QuickNovel)
+`FOSS`
+> UI just like CloudStream.
+
+Shosetsu and QuickNovel are using different sources so when looking for certain novel it's worth to try both.
+
+💡 **NU Client**
+[`▶️Google Play`](https://play.google.com/store/apps/details?id=knf.nuclient)
+> Client for [novelupdates.com](https://www.novelupdates.com/). Let you browse web- and light- novels, see on which site they are available and sends you notifications when new chapters are added.
 
 </details>
 
@@ -39,9 +48,11 @@
 
 <details><summary>Read <b>E-books</b></summary>
 
-&#10022; [**Moon+ Reader**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) `▶️Google Play`
+&#10022; **Moon+ Reader** 
+[`▶️Google Play`](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) 
 
-&#10022; [**Reasily**](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) `▶️Google Play`
+&#10022; **Reasily** 
+[`▶️Google Play`](https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily) 
 > **ePub only** reader
 
 </details>
@@ -53,14 +64,9 @@
 
 <details><summary>Watch <b>Anime</b></summary>
 
-&#10022; [**Aniyomi**](https://aniyomi.jmir.xyz/) `FOSS` `Extension based`
-> Fork of Tachiyomi for anime. 
-
-|           +          |            -           |
-| :-----------------: | :-----------------: |
-| Tachiyomi-like UI |  |
-| Let both watch anime and read manga |  |
-| Continue watching where you left |  |
+&#10022; [**Aniyomi**](https://aniyomi.jmir.xyz/) 
+`FOSS` `Extension based`
+> Fork of **Tachiyomi** for anime. Include both anime watching and manga reading extensions.
 
 &#10022; [**Saikou**](https://github.com/saikou-app/saikou) 
 `FOSS`
@@ -88,7 +94,7 @@
 | App                 | Supported Sources | Tracking | Continue watching | Download | Episode Countdown | Additional Info |
 | -------------------- | :----------------------------: | :------------: | :----------------------------: | :--------------: | :------------------------------: | :---------------------: |
 | Aniyomi         | [Various](https://aniyomi.jmir.xyz/extensions/) | MAL, AniList, Kitsu, Shikimori, Bangumi  | Yes | Yes<br>(batch) | No | Description, Tags(source-dependent) |
-| Saikou            | AllAnime, Gogo, Zoro, Kamyroll, Tenshi, 9Anime, AnimixPlay, AnimePahe | AniList | Yes | No? | Yes? | Yes (powered by AniList) |
+| Saikou            | AllAnime, Gogo, Zoro, Kamyroll, Tenshi, 9Anime, AnimixPlay, AnimePahe | AniList | Yes | No? | Yes | Yes (powered by AniList) |
 | Kayuri             |  |  |  |  |  |  |
 | Kuro/No         | Gogo |  |  |  |  |  |
 | Anime DL       |  |  |  |  |  |  |
@@ -114,11 +120,26 @@
 
 <details><summary>Download <b>Video</b></summary>
 
-&#10022; [Video Downloader](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶️Google Play`
-|           +          |            -           |
-| :-----------------: | :-----------------: |
-|  | Ads |
-|  |  |
+&#10022; **Video Downloader** 
+[`▶️Google Play`](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) 
+> Contains adds but cope with downloading most videos.
+
+&#10022; **Lj Video Downloader**
+[`▶️Google Play`](https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader)
+> Downloader specjalized in M3U8 files. Also supports MP4 and MPD. Won't let you download YouTube videos.
+
+</details>
+
+---
+
+<details><summary>Download <b>YouTube</b> Videos & Songs</summary>
+
+&#10022; [**Ymusic**](https://ymusic.io/)
+> Play only audio of YouTube video in background, save up to 90% consumed data.  
+Download YouTube video withever format you like, include MP3 format.  
+Auto detect Artist and Album name of the video using last.fm service.  
+Play your local music. YMusic forked from Jockey open source project - a super powerful and lightweight music player.  
+Just click the Share button in YouTube app to open play Ymusic or download in the background.
 
 </details>
 
@@ -126,9 +147,11 @@
 
 <details><summary>Download <b>Images</b></summary>
 
-&#10022; [Image Hunter](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) `▶️Google Play`
+&#10022; Image Hunter
+[`▶️Google Play`](https://play.google.com/store/apps/details?id=video.downloader.videodownloader) 
 
-&#10022; [Gallerify](https://play.google.com/store/apps/details?id=com.atominvention.gallerify) `▶️Google Play`
+&#10022; Gallerify
+[`▶️Google Play`](https://play.google.com/store/apps/details?id=com.atominvention.gallerify) 
 
  **�** ~~[GetThemAll]()~~ `▶️Google Play`
 > Once upon a time it was great app... But owner changed and...
@@ -144,10 +167,7 @@
 <details><summary>File Explorers</summary>
 
 &#10022; [**X-plore**](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) `▶️Google Play`
-|           +          |            -           |
-| :-----------------: | :-----------------: |
-| Two column view |  |
-| Remember scroll position |  |
+> File Explorer that shows file in two columns that make it possible to easily select source and destination when copying or moving files.
 
 </details>
 
