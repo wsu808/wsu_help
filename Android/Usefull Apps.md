@@ -95,6 +95,8 @@
 | Streamio        | Various |  |  |  |  |  |
 | CloudStream | Various | MAL, AniList | Yes | Yes | No | Description, Tags(source-dependent) |
 
+<sup>🏗️ Table under construction</sub>
+
 </details>
 
 ---
