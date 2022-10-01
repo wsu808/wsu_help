@@ -150,7 +150,7 @@
 
 <details><summary>Find a File</summary>
 
-&#128161; [**aGrep**]() `FOSS` [`F-Droid`](https://f-droid.org/en/packages/jp.sblo.pandora.aGrep/)
+&#128161; [**aGrep**]() `FOSS` [`🤖F-Droid`](https://f-droid.org/en/packages/jp.sblo.pandora.aGrep/)
 > Search not only for filenames but also through content of files and documents
 
 </details>
