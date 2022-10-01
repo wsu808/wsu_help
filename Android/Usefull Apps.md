@@ -81,16 +81,20 @@
 &#10023; [**CloudStream**](https://github.com/recloudstream/cloudstream) `FOSS` `Extension based`
 > Movie and Series centered but supports a few anime sources as well.
 
+</details>
+
+<details><summary>Watch Anime - <b>Feature Overview</b></summary>
+
 ### Feature Overview
 | App                 | Supported Sources | Tracking | Continue watching | Download | Episode Countdown | Additional Info |
 | -------------------- | :----------------------------: | :------------: | :----------------------------: | :--------------: | :------------------------------: | :---------------------: |
-| Aniyomi         | [Various](https://aniyomi.jmir.xyz/extensions/) | MAL, AniList, Kitsu, Shikimori, Bangumi  | Yes | Yes<br>(batch) | No | Vary by source: Description, Tags |
-| Saikou            | AllAnime, Gogo, Zoro, Kamyroll, Tenshi, 9Anime, AnimixPlay, AnimePahe | AniList | No? |  | Yes? | Yes (powered by AniList) |
+| Aniyomi         | [Various](https://aniyomi.jmir.xyz/extensions/) | MAL, AniList, Kitsu, Shikimori, Bangumi  | Yes | Yes<br>(batch) | No | Description, Tags(source-dependent) |
+| Saikou            | AllAnime, Gogo, Zoro, Kamyroll, Tenshi, 9Anime, AnimixPlay, AnimePahe | AniList | Yes | No? | Yes? | Yes (powered by AniList) |
 | Kayuri             |  |  |  |  |  |  |
 | No                   | Gogo |  |  |  |  |  |
 | Anime DL       |  |  |  |  |  |  |
 | Streamio        | Various |  |  |  |  |  |
-| CloudStream | Various | MAL, AniList | Yes | Yes | No | Description, Tags(vary by source) |
+| CloudStream | Various | MAL, AniList | Yes | Yes | No | Description, Tags(source-dependent) |
 
 </details>
 
