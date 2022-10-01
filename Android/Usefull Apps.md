@@ -68,7 +68,7 @@
 &#10023; [Kayuri](https://github.com/Killerpac/Kayuri) 
 `FOSS`
 
-&#10023; [No](https://github.com/deceptions/no) 
+&#10023; [Kuro/No](https://github.com/deceptions/no) 
 `FOSS`  
 > Just another gogoscraper, based on the leaked shiro source code.
 
@@ -90,7 +90,7 @@
 | Aniyomi         | [Various](https://aniyomi.jmir.xyz/extensions/) | MAL, AniList, Kitsu, Shikimori, Bangumi  | Yes | Yes<br>(batch) | No | Description, Tags(source-dependent) |
 | Saikou            | AllAnime, Gogo, Zoro, Kamyroll, Tenshi, 9Anime, AnimixPlay, AnimePahe | AniList | Yes | No? | Yes? | Yes (powered by AniList) |
 | Kayuri             |  |  |  |  |  |  |
-| No                   | Gogo |  |  |  |  |  |
+| Kuro/No         | Gogo |  |  |  |  |  |
 | Anime DL       |  |  |  |  |  |  |
 | Streamio        | Various |  |  |  |  |  |
 | CloudStream | Various | MAL, AniList | Yes | Yes | No | Description, Tags(source-dependent) |
