@@ -126,7 +126,7 @@
 &#10022; [Gallerify](https://play.google.com/store/apps/details?id=com.atominvention.gallerify) `▶️Google Play`
 
  **�** ~~[GetThemAll]()~~ `▶️Google Play`
-    > Once upon a time it was great app... But owner changed and...
+> Once upon a time it was great app... But owner changed and...
 
 </details>
 
