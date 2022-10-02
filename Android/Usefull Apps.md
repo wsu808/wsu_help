@@ -3,6 +3,7 @@
 
 | [Read](#-read) 
 | [Watch](#-watch) 
+| [Track](#-track)
 | [Download](#-download)
 | [Files](#-manage-files)
 |
@@ -115,8 +116,32 @@ Shosetsu and QuickNovel are using different sources so when looking for certain 
 
 ---
 
-&#128229; Download
----------------------
+## 👁️‍🗨️ Track
+
+<details><summary>Track Watched <b>Movies & Series</b></summary>
+
+&#10022; Showly
+> Sync with Trakt.tv. Have both free and paid version.
+
+&#10022; Episodes
+`FOSS` `F-droid`
+> Let only track TV shows and anime but have interesting design. Sadly doesn't support searching through your library or sync with external sites.
+
+</details>
+
+---
+
+<details><summary>Track Watched <b>Anime</b></summary>
+</details>
+
+---
+
+<details><summary>Track Read <b>Books</b></summary>
+</details>
+
+---
+
+## &#128229; Download
 
 <details><summary>Download <b>Video</b></summary>
 
