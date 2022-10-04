@@ -14,7 +14,7 @@
 <h1 align="center">Troubleshooting</h1>
 
 <h3 align="center">
-  <a href="/Android/Gesture Navigation with custom launchers on MIUI 12.5.md">
+  <a href="Android/Gesture%20Navigation%20with%20custom%20launchers%20on%20MIUI%2012.5.html">
   ▶️ Use gesture navigation on MIUI 12.5 with custom launchers
   </a>
 </h3>
