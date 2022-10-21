@@ -153,6 +153,8 @@ Shosetsu and QuickNovel are using different sources so when looking for certain 
 [`▶️Google Play`](https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader)
 > Downloader specjalized in M3U8 files. Also supports MP4 and MPD. Won't let you download YouTube videos.
 
+&#10022; 1DM
+
 </details>
 
 ---
@@ -165,6 +167,11 @@ Download YouTube video withever format you like, include MP3 format.
 Auto detect Artist and Album name of the video using last.fm service.  
 Play your local music. YMusic forked from Jockey open source project - a super powerful and lightweight music player.  
 Just click the Share button in YouTube app to open play Ymusic or download in the background.
+
+&#10022; [**NewPipe**](https://newpipe.net/) 
+`FOSS` 
+[`🤖 F-droid`](https://f-droid.org/packages/org.schabi.newpipe/) 
+> Lightweight, feature-rich and privacy friendly YouTube frontend for android.
 
 </details>
 
@@ -222,6 +229,14 @@ Make Your Life Easier
 
 And much more...
 -----------------------------
+
+<details><summary>Scan QR codes</summary>
+
+&#10022; **Barcode Scanner+** 
+`FOSS` [`▶️Google Play`](https://play.google.com/store/apps/details?id=com.srowen.bs.android)
+> Really fast and simple barcode and QR code scanner. This fork allows to use portrait mode and scan using **front camera** (may be useful when using tablet in etui).
+
+</details>
 
 <details><summary></summary>
 
