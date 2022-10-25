@@ -22,7 +22,7 @@
 
 &#10023; [**Saikou**](https://github.com/saikou-app/saikou) 
 `FOSS`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/saikou-app/saikou/releases/latest) 
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=blue&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/saikou-app/saikou/releases/latest) 
 > Compared to Tachiyomi it has less sources. In terms of UI it has more animations, bigger padding and margins which can be considered both a disadvantage and an advantage.
 
 </details>
@@ -78,7 +78,7 @@
 
 &#10022; [**Saikou**](https://github.com/saikou-app/saikou) 
 `FOSS`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/saikou-app/saikou/releases/latest) 
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=blue&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/saikou-app/saikou/releases/latest) 
 
 &#10023; [Kayuri](https://github.com/Killerpac/Kayuri) 
 `FOSS`  
@@ -98,7 +98,7 @@
 
 &#10023; [**CloudStream**](https://github.com/recloudstream/cloudstream) 
 `FOSS` `Extension based`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/recloudstream/cloudstream/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=blue&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/recloudstream/cloudstream/releases/latest)
 > Movie and Series centered but supports a few anime sources as well.
 
 </details>
@@ -125,7 +125,7 @@
 
 &#10022; [**CloudStream**](https://github.com/recloudstream/cloudstream) 
 `FOSS` `Extension based`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/recloudstream/cloudstream/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=blue&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/recloudstream/cloudstream/releases/latest)
 
 </details>
 
