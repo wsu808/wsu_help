@@ -1,12 +1,3 @@
-<!--
-App stores badges
-![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)
-
-![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)
--->
-
-
-
 <sub>Welsome to...</sub>
 <h1 align="center">&#7457;&#7424;&#115;&#7452;&apos;&#115;&#32;&#7424;&#7465;&#7465;&#115;&#32;&#610;&#7452;&#618;&#7429;&#7431;</h1>
 
@@ -247,8 +238,20 @@ And much more...
 
 </details>
 
+
+
+<!-- TEMPLATES
+
 <details><summary></summary>
 
 []()
 
 </details>
+
+
+App stores badges
+![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)
+
+![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)
+-->
+
