@@ -42,7 +42,8 @@
 &emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/LagradOst/QuickNovel?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/LagradOst/QuickNovel/releases/latest)
 > UI just like CloudStream.
 
-Shosetsu and QuickNovel are using different sources so when looking for certain novel it's worth to try both.
+| ℹ️ | Shosetsu and QuickNovel are using different sources so when looking for certain novel it's worth to try both. |
+|:---:|:---|
 
 &#10022; **NU Client**  
 &emsp; [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=knf.nuclient)
