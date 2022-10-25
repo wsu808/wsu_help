@@ -39,7 +39,7 @@
 
 Shosetsu and QuickNovel are using different sources so when looking for certain novel it's worth to try both.
 
-💡 **NU Client**  
+&#10022; **NU Client**  
 &emsp; [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=knf.nuclient)
 > Client for [novelupdates.com](https://www.novelupdates.com/). Let you browse web- and light- novels, see on which site they are available and sends you notifications when new chapters are added.
 
