@@ -71,26 +71,33 @@ Shosetsu and QuickNovel are using different sources so when looking for certain 
 <details><summary>Watch <b>Anime</b></summary>
 
 &#10022; [**Aniyomi**](https://aniyomi.jmir.xyz/) 
-`FOSS` `Extension based`
+`FOSS` `Extension based`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/jmir1/aniyomi?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/jmir1/aniyomi/releases/latest)
 > Fork of **Tachiyomi** for anime. Include both anime watching and manga reading extensions.
 
 &#10022; [**Saikou**](https://github.com/saikou-app/saikou) 
-`FOSS`
+`FOSS`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/saikou-app/saikou/releases/latest) 
 
 &#10023; [Kayuri](https://github.com/Killerpac/Kayuri) 
-`FOSS`
+`FOSS`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/Killerpac/Kayuri?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/Killerpac/Kayuri/releases/latest)
 
 &#10023; [Kuro/No](https://github.com/deceptions/no) 
 `FOSS`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/deceptions/no?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/deceptions/no/releases/latest)
 > Just another gogoscraper, based on the leaked shiro source code.
 
 &#10023; [Anime DL](https://github.com/sharn25/Anime-DL-Android-Verison) 
-`FOSS`
+`FOSS`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/sharn25/Anime-DL-Android-Verison?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/sharn25/Anime-DL-Android-Verison/releases/latest)
 
 &#10023; [Streamio](https://www.stremio.com/downloads) 
-`FOSS` `Extension based`
+`FOSS` `Extension based`  
 
-&#10023; [**CloudStream**](https://github.com/recloudstream/cloudstream) `FOSS` `Extension based`
+&#10023; [**CloudStream**](https://github.com/recloudstream/cloudstream) 
+`FOSS` `Extension based`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/recloudstream/cloudstream/releases/latest)
 > Movie and Series centered but supports a few anime sources as well.
 
 </details>
