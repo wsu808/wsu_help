@@ -1,9 +1,9 @@
-<template>
+<!--
 App stores badges
 ![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)
 
 ![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)
-</template>
+-->
 
 
 
