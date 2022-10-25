@@ -17,10 +17,12 @@
 <details><summary>Read <b>Manga</b></summary>
 
 &#10022; [**Tachiyomi**](https://tachiyomi.org/) and its [forks](https://tachiyomi.org/forks/) 
-`FOSS` `Extension based`
+`FOSS` `Extension based`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/tachiyomiorg/tachiyomi?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/tachiyomiorg/tachiyomi/releases/latest)
 
 &#10023; [**Saikou**](https://github.com/saikou-app/saikou) 
-`FOSS` 
+`FOSS`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/saikou-app/saikou/releases/latest) 
 > Compared to Tachiyomi it has less sources. In terms of UI it has more animations, bigger padding and margins which can be considered both a disadvantage and an advantage.
 
 </details>
@@ -30,11 +32,14 @@
 <details><summary>Read Light <b>Novels</b></summary>
 
 &#10022; [**Shosetsu**](https://shosetsu.app)
-`FOSS`
+`FOSS`  
+&emsp;[![Get it on GitLab](https://img.shields.io/gitlab/v/release/39099987?color=green&labelColor=554488&display_name=tag&logo=gitlab&style=flat-square&logoColor=fc6d26&label=GitLab)](https://gitlab.com/shosetsuorg/shosetsu/-/releases/permalink/latest) 
+[![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)](https://f-droid.org/packages/app.shosetsu.android.fdroid/)
 > Tachiomi-like UI.
 
 &#10022; [**QuickNovel**](https://github.com/LagradOst/QuickNovel)
-`FOSS`
+`FOSS`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/LagradOst/QuickNovel?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/LagradOst/QuickNovel/releases/latest)
 > UI just like CloudStream.
 
 Shosetsu and QuickNovel are using different sources so when looking for certain novel it's worth to try both.
@@ -110,7 +115,9 @@ Shosetsu and QuickNovel are using different sources so when looking for certain 
 
 <details><summary>Watch <b>TV Shows & Movies</b></summary>
 
-&#10022; [**CloudStream**](https://github.com/recloudstream/cloudstream) `FOSS` `Extension based`
+&#10022; [**CloudStream**](https://github.com/recloudstream/cloudstream) 
+`FOSS` `Extension based`  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](https://github.com/recloudstream/cloudstream/releases/latest)
 
 </details>
 
@@ -120,7 +127,8 @@ Shosetsu and QuickNovel are using different sources so when looking for certain 
 
 <details><summary>Track Watched <b>Movies & Series</b></summary>
 
-&#10022; Showly
+&#10022; Showly  
+&emsp;[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
 > Sync with Trakt.tv. Have both free and paid version.
 
 &#10022; Episodes
@@ -200,8 +208,8 @@ Just click the Share button in YouTube app to open play Ymusic or download in th
 
 <details><summary>File Explorers</summary>
 
-&#10022; [**X-plore**](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)    
-&emsp;![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)
+&#10022; **X-plore**
+&emsp;[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
 > File Explorer that shows file in two columns that make it possible to easily select source and destination when copying or moving files.
 
 </details>
@@ -210,7 +218,7 @@ Just click the Share button in YouTube app to open play Ymusic or download in th
 
 <details><summary>Find a File</summary>
 
-&#128161; [**aGrep**]() `FOSS`    
+&#128161; **aGrep** `FOSS`    
 &emsp;[![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)](https://f-droid.org/en/packages/jp.sblo.pandora.aGrep/)
 > Search not only for filenames but also through content of files and documents
 
@@ -256,8 +264,16 @@ And much more...
 
 
 App stores badges
-![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](URL)
 
-![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)
+[![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)](URL)
+
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/USER/REPO?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub%20Releases)](URL)
+
+&emsp;[![Get it on GitLab](https://img.shields.io/gitlab/v/release/39099987?color=blue&labelColor=554488&display_name=tag&logo=gitlab&style=flat-square&logoColor=fc6d26&label=GitLab)](https://gitlab.com/shosetsuorg/shosetsu/-/releases/permalink/latest) 
+
+&emsp; - tab
+&#10022;
+&#10023;
 -->
 
