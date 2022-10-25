@@ -215,7 +215,7 @@ Just click the Share button in YouTube app to open play Ymusic or download in th
 
 <details><summary>File Explorers</summary>
 
-&#10022; **X-plore**
+&#10022; **X-plore**  
 &emsp;[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
 > File Explorer that shows file in two columns that make it possible to easily select source and destination when copying or moving files.
 
@@ -225,7 +225,7 @@ Just click the Share button in YouTube app to open play Ymusic or download in th
 
 <details><summary>Find a File</summary>
 
-&#128161; **aGrep** `FOSS`    
+&#10023; **aGrep** `FOSS`    
 &emsp;[![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)](https://f-droid.org/en/packages/jp.sblo.pandora.aGrep/)
 > Search not only for filenames but also through content of files and documents
 
