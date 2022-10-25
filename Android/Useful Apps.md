@@ -18,11 +18,11 @@
 
 &#10022; [**Tachiyomi**](https://tachiyomi.org/) and its [forks](https://tachiyomi.org/forks/) 
 `FOSS` `Extension based`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/tachiyomiorg/tachiyomi?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/tachiyomiorg/tachiyomi/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/tachiyomiorg/tachiyomi?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/tachiyomiorg/tachiyomi/releases/latest)
 
 &#10023; [**Saikou**](https://github.com/saikou-app/saikou) 
 `FOSS`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=blue&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/saikou-app/saikou/releases/latest) 
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=555555&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/saikou-app/saikou/releases/latest) 
 > Compared to Tachiyomi it has less sources. In terms of UI it has more animations, bigger padding and margins which can be considered both a disadvantage and an advantage.
 
 </details>
@@ -33,13 +33,13 @@
 
 &#10022; [**Shosetsu**](https://shosetsu.app)
 `FOSS`  
-&emsp;[![Get it on GitLab](https://img.shields.io/gitlab/v/release/39099987?color=green&labelColor=554488&display_name=tag&logo=gitlab&style=flat-square&logoColor=fc6d26&label=GitLab)](https://gitlab.com/shosetsuorg/shosetsu/-/releases/permalink/latest) 
+&emsp;[![Get it on GitLab](https://img.shields.io/gitlab/v/release/39099987?color=725BB6&labelColor=554488&display_name=tag&logo=gitlab&style=flat-square&logoColor=fc6d26&label=GitLab)](https://gitlab.com/shosetsuorg/shosetsu/-/releases/permalink/latest) 
 [![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)](https://f-droid.org/packages/app.shosetsu.android.fdroid/)
 > Tachiomi-like UI.
 
 &#10022; [**QuickNovel**](https://github.com/LagradOst/QuickNovel)
 `FOSS`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/LagradOst/QuickNovel?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/LagradOst/QuickNovel/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/LagradOst/QuickNovel?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/LagradOst/QuickNovel/releases/latest)
 > UI just like CloudStream.
 
 | ℹ️ | Shosetsu and QuickNovel are using different sources so when looking for certain novel it's worth to try both. |
@@ -73,32 +73,32 @@
 
 &#10022; [**Aniyomi**](https://aniyomi.jmir.xyz/) 
 `FOSS` `Extension based`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/jmir1/aniyomi?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/jmir1/aniyomi/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/jmir1/aniyomi?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/jmir1/aniyomi/releases/latest)
 > Fork of **Tachiyomi** for anime. Include both anime watching and manga reading extensions.
 
 &#10022; [**Saikou**](https://github.com/saikou-app/saikou) 
 `FOSS`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=blue&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/saikou-app/saikou/releases/latest) 
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/saikou-app/saikou?color=555555&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/saikou-app/saikou/releases/latest) 
 
 &#10023; [Kayuri](https://github.com/Killerpac/Kayuri) 
 `FOSS`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/Killerpac/Kayuri?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/Killerpac/Kayuri/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/Killerpac/Kayuri?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/Killerpac/Kayuri/releases/latest)
 
 &#10023; [Kuro/No](https://github.com/deceptions/no) 
 `FOSS`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/deceptions/no?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/deceptions/no/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/deceptions/no?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/deceptions/no/releases/latest)
 > Just another gogoscraper, based on the leaked shiro source code.
 
 &#10023; [Anime DL](https://github.com/sharn25/Anime-DL-Android-Verison) 
 `FOSS`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/sharn25/Anime-DL-Android-Verison?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/sharn25/Anime-DL-Android-Verison/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/sharn25/Anime-DL-Android-Verison?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](https://github.com/sharn25/Anime-DL-Android-Verison/releases/latest)
 
 &#10023; [Streamio](https://www.stremio.com/downloads) 
 `FOSS` `Extension based`  
 
 &#10023; [**CloudStream**](https://github.com/recloudstream/cloudstream) 
 `FOSS` `Extension based`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=blue&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/recloudstream/cloudstream/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=555555&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/recloudstream/cloudstream/releases/latest)
 > Movie and Series centered but supports a few anime sources as well.
 
 </details>
@@ -125,7 +125,7 @@
 
 &#10022; [**CloudStream**](https://github.com/recloudstream/cloudstream) 
 `FOSS` `Extension based`  
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=blue&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/recloudstream/cloudstream/releases/latest)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/recloudstream/cloudstream?color=555555&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/recloudstream/cloudstream/releases/latest)
 
 </details>
 
@@ -276,7 +276,7 @@ App stores badges
 
 [![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)](URL)
 
-&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/USER/REPO?color=blue&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](URL)
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/USER/REPO?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](URL)
 
 &emsp;[![Get it on GitLab](https://img.shields.io/gitlab/v/release/39099987?color=blue&labelColor=554488&display_name=tag&logo=gitlab&style=flat-square&logoColor=fc6d26&label=GitLab)](https://gitlab.com/shosetsuorg/shosetsu/-/releases/permalink/latest) 
 
