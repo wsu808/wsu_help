@@ -170,7 +170,9 @@
 &emsp;[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader)
 > Downloader specjalized in M3U8 files. Also supports MP4 and MPD. Won't let you download YouTube videos.
 
-&#10022; 1DM
+&#10022; **1DM**   
+&emsp;[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=idm.internet.download.manager) 
+> **Advenced** Download Manager for downloading videos, images and any other files.
 
 </details>
 
