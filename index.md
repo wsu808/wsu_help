@@ -1,12 +1,12 @@
 <h1 align="center">How To</h1>   
 
 <h3 align="center">
-  <a href="/websites/cubari.moe">
+  <a href="websites/cubari.moe">
   ▶️ Conveniently read online comics in cubari.moe viewer
   </a>
 </h3>
 <h3 align="center">
-  <a href="/GitHub">
+  <a href="GitHub">
   ▶️ Style your github repository
   </a>
 </h3>
