@@ -137,6 +137,7 @@
 
 &#10022; Showly  
 &emsp;[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
+[![Get it on GitHub](https://img.shields.io/github/v/release/michaldrabik/showly-2.0?color=555555&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/michaldrabik/showly-2.0/releases/latest)
 > Sync with Trakt.tv. Have both free and paid version.
 
 &#10022; Episodes
@@ -209,6 +210,21 @@ Just click the Share button in YouTube app to open play Ymusic or download in th
 > Once upon a time it was great app... But owner changed and...
 
 </details>
+
+---
+
+<details><summary>Download <b>Apps</b></summary>
+
+&#10022; [Obtainium](https://github.com/ImranR98/Obtainium)  
+&emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/ImranR98/Obtainium?color=555555&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/ImranR98/Obtainium/releases/latest)
+> Update Apps from different sources like: Github Releases, GitLab, Telegram [etc.](https://github.com/ImranR98/Obtainium#-obtainium) 
+
+</details>
+
+---
+| Keep track of updates for apps from GitHub |  
+|:----------------------------------------|  
+| [Obtainium](https://github.com/ImranR98/Obtainium)  [![Get it on GitHub](https://img.shields.io/github/v/release/ImranR98/Obtainium?color=555555&labelColor=333333&display_name=tag&include_prereleases&logo=github&style=flat-square&label=GitHub)](https://github.com/ImranR98/Obtainium/releases/latest) |
 
 ---
 
