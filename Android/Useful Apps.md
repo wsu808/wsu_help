@@ -1,4 +1,4 @@
-<sub>Welsome to...</sub>
+<sub>Welcome to...</sub>
 <h1 align="center">&#7457;&#7424;&#115;&#7452;&apos;&#115;&#32;&#7424;&#7465;&#7465;&#115;&#32;&#610;&#7452;&#618;&#7429;&#7431;</h1>
 
 | [Read](#-read) 
@@ -9,7 +9,7 @@
 |
 
 
-</br></br>
+![visit counter](https://count.getloli.com/get/@wasu-apps-guide?theme=asoul)
 
 &#128214; Read
 --------
@@ -291,23 +291,31 @@ Other similar lists:
 + [Android ultimate collection and guides](https://forum.xda-developers.com/t/android-ultimate-collection-guides.4513231/)
 
 
+<!-- App Stores badges -->
+
+[gplay]: https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square
+
+[fdroid]: https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square
+
+[github]: https://img.shields.io/github/v/release/USER/REPO?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub
+
+[gitlab]: https://img.shields.io/gitlab/v/release/39099987?color=blue&labelColor=554488&display_name=tag&logo=gitlab&style=flat-square&logoColor=fc6d26&label=GitLab
+
 <!-- TEMPLATES
 
 <details><summary></summary>
 
 []()
 
-</details>
+</details> 
 
-
-App stores badges
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-01875f?logo=googleplay&style=flat-square)](URL)
 
 [![Get it on F-droid](https://img.shields.io/badge/F--droid-227BD5?logo=fdroid&logoColor=B1EB0B&style=flat-square)](URL)
 
 &emsp;[![Get it on GitHub](https://img.shields.io/github/v/release/USER/REPO?color=555555&labelColor=333333&display_name=tag&logo=github&style=flat-square&label=GitHub)](URL)
 
-&emsp;[![Get it on GitLab](https://img.shields.io/gitlab/v/release/39099987?color=blue&labelColor=554488&display_name=tag&logo=gitlab&style=flat-square&logoColor=fc6d26&label=GitLab)](https://gitlab.com/shosetsuorg/shosetsu/-/releases/permalink/latest) 
+&emsp;[![Get it on GitLab](https://img.shields.io/gitlab/v/release/39099987?color=blue&labelColor=554488&display_name=tag&logo=gitlab&style=flat-square&logoColor=fc6d26&label=GitLab)](https://gitlab.com/shosetsuorg/shosetsu/-/releases/permalink/latest)
 
 &emsp; - tab
 &#10022;
